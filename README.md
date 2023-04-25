@@ -8,3 +8,5 @@
     * [サンプルコード](sample): bisection.c, golden_section.c
   * 実習1 (2023-04-19)
     * [exercise-1-1.pdf](exercise/exercise-1-1.pdf)
+  * 講義2 (2023-04-26)
+    * [lecture-1-2.pdf](lecture/lecture-1-2.pdf)
