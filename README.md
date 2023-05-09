@@ -10,3 +10,7 @@
     * [exercise-1-1.pdf](exercise/exercise-1-1.pdf)
   * 講義2 (2023-04-26)
     * [lecture-1-2.pdf](lecture/lecture-1-2.pdf)
+  * 実習2 (2023-05-10/17)
+    * [exercise-1-2.pdf](exercise/exercise-1-2.pdf)
+    * 補足説明スライド [pointer.pdf](exercise/pointer.pdf)
+    * [サンプルコード](sample): array.c, array2func.c
