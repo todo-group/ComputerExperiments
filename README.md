@@ -14,3 +14,8 @@
     * [exercise-1-2.pdf](exercise/exercise-1-2.pdf)
     * 補足説明スライド [pointer.pdf](exercise/pointer.pdf)
     * [サンプルコード](sample): array.c, array2func.c
+  * 講義3 (2023-06-07)
+    * [lecture-1-3.pdf](lecture/lecture-1-3.pdf)
+    * [サンプルコード/データ](sample): cmatrix.h, dgetrf.h, dgetrs.h, gauss.c, input1.dat, input2.dat, lu_decomp.c, matrix_example.c
+
+
