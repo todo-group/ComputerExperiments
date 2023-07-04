@@ -21,4 +21,7 @@
     * 実習資料: [exercise-1-3.pdf](exercise/exercise-1-3.pdf)
     * 補足説明スライド: [rng.pdf](exercise/rng.pdf), [complex.pdf](exercise/complex.pdf)
     * [サンプルコード](sample): complex.c, dgemm.h, mersenne_twister.h, multiply.c, multiply_dgemm.c, random.c
+  * 講義4 (2023-07-05)
+    * 講義資料: [lecture-1-4.pdf](lecture/lecture-1-4.pdf)
+    * [サンプルコード/データ](sample): dgesvd.h, diag.c, dsyev.h, full_svd.c, matrix1.dat, matrix2.dat, svn.c
 
