@@ -6,3 +6,9 @@
   * 講義1 (2023-10-06)
     * 講義資料: [lecture-2-1.pdf](lecture/lecture-2-1.pdf)
     * [サンプルコード](sample): harmonic.c, mersenne_twister.h
+  * 実習1 (2023-10-13)
+    * 実習資料: [exercise-2-1.pdf](exercise/exercise-2-1.pdf)
+    * 補足資料:
+      * 疑似乱数とヒストグラム: [histogram.pdf](exercise/histogram.pdf)
+      * マルコフ連鎖における自己相関と統計誤差解析: [autocorrelation.pdf](exercise/autocorrelation.pdf)
+    * [サンプルコード](sample): cmatrix.h, histogram.c, mersenne_twister.h, random.c, square_lattice.c
