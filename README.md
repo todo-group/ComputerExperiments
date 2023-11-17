@@ -14,3 +14,5 @@
     * [サンプルコード](sample): cmatrix.h, histogram.c, mersenne_twister.h, random.c, square_lattice.c
   * 講義2 (2023-10-27)
     * 講義資料: [lecture-2-2.pdf](lecture/lecture-2-2.pdf)
+  * 講義3 (2023-11-17)
+    * 講義資料: [lecture-2-3.pdf](lecture/lecture-2-3.pdf)
