@@ -24,3 +24,5 @@
   * 講義4 (2023-12-1)
     * 講義資料: [lecture-2-4.pdf](lecture/lecture-2-4.pdf)
     * [サンプルコード](sample): func_1d.h, golden_section.c, harmonic.c, mersenne_twister.h
+  * 実習3 (2023-12-8)
+    * 実習資料: [exercise-2-3.pdf](exercise/exercise-2-3.pdf)
