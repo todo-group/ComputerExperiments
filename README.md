@@ -1,4 +1,4 @@
-# 2023年Sセメスター計算機実験I資料
+# 2024年Sセメスター計算機実験I資料
 
 * [計算機実験ハンドブック(2023年度)](https://github.com/utphys-comp/handbook/releases/download/handbook-2023/handbook.pdf)
 * [計算機実習のための環境整備](https://utphys-comp.github.io)
