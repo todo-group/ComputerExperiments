@@ -6,3 +6,5 @@
   * 講義1 (2024-04-10)
     * 講義資料: [lecture-1-1.pdf](lecture/lecture-1-1.pdf)
     * [サンプルコード](sample): bisection.c, func_1d.h, golden_section.c
+  * 実習1 (2024-04-17/24)
+    * 実習資料: [exercise-1-1.pdf](exercise/exercise-1-1.pdf)
