@@ -8,11 +8,14 @@
     * [サンプルコード](sample): bisection.c, func_1d.h, golden_section.c
   * 実習1 (2024-04-17/24)
     * 実習資料: [exercise-1-1.pdf](exercise/exercise-1-1.pdf)
-  * 講義1 (2024-05-07)
+  * 講義2 (2024-05-07)
     * 講義資料: [lecture-1-2.pdf](lecture/lecture-1-2.pdf)
   * 実習2 (2024-05-22/29)
     * 実習資料: [exercise-1-2.pdf](exercise/exercise-1-2.pdf)
     * 補足説明スライド: [pointer.pdf](exercise/pointer.pdf)
     * [サンプルコード](sample): array.c, array2func.c
+  * 講義3 (2024-06-05)
+    * 講義資料: [lecture-1-3.pdf](lecture/lecture-1-3.pdf)
+    * [サンプルコード/サンプルデータ](sample): cmatrix.h, matrix example.c, gauss.c, input1.dat, input2.dat, multiply.c, multiply_dgemm.c, dgemm.h, mersenne_twister.h, dgetrf.h, dgetrs.h, lu_decomp.c
 * レポート作成用LaTeXテンプレート
   * [template.tex](template.tex)
