@@ -20,9 +20,13 @@
   * 実習3 (2024-06-12/19)
     * 実習資料: [exercise-1-3.pdf](exercise/exercise-1-3.pdf)
     * 補足説明スライド: [rng.pdf](exercise/rng.pdf), [complex.pdf](exercise/complex.pdf)
-    * [サンプルコード](sample): cmatrix.h, matrix_example.c, lu_decomp.c, dgetrf.h, dgetrs.h, input1.dat, random.c, mersenne_twister.h, complex.c, multiply.c, multiply_dgemm.c, dgemm.h
+    * [サンプルコード/サンプルデータ](sample): cmatrix.h, matrix_example.c, lu_decomp.c, dgetrf.h, dgetrs.h, input1.dat, random.c, mersenne_twister.h, complex.c, multiply.c, multiply_dgemm.c, dgemm.h
   * 講義4 (2024-06-26)
     * 講義資料: [lecture-1-4.pdf](lecture/lecture-1-4.pdf)
     * [サンプルコード/サンプルデータ](sample): cmatrix.h, diag.c, dgesvd.h, dsyev.h, full_svd.c, matrix1.dat, matrix2.dat, svd.c
+  * 実習4 (2024-07-03/10)
+    * 実習資料: [exercise-1-4.pdf](exercise/exercise-1-4.pdf)
+    * 補足説明スライド: [box-muller.pdf](exercise/box-muller.pdf)
+    * [サンプルコード/サンプルデータ](sample): bulb.png, cmatrix.h, convert2matrix.py, diag.c, dstev.h, dsyev.h, matrix1.dat, measurement1.dat, measurement2.dat, mersenne_twister.h, random.c
 * レポート作成用LaTeXテンプレート
   * [template.tex](template.tex)
