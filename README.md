@@ -14,3 +14,7 @@
     * [サンプルコード](sample): cmatrix.h, histogram.c, mersenne_twister.h, random.c, square_lattice.c
   * 講義2 (2024-11-01)
     * 講義資料: [lecture-2-2.pdf](lecture/lecture-2-2.pdf)
+  * 実習2 (2024-11-08)
+    * 実習資料: [exercise-2-2.pdf](exercise/exercise-2-2.pdf)
+      * 疎行列とビット演算: [sparse.pdf](exercise/sparse.pdf)
+    * [サンプルコード](sample): cmatrix.h, matfree.c, sparse.c, tridiagonal.c
