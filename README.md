@@ -16,5 +16,6 @@
     * 講義資料: [lecture-2-2.pdf](lecture/lecture-2-2.pdf)
   * 実習2 (2024-11-08)
     * 実習資料: [exercise-2-2.pdf](exercise/exercise-2-2.pdf)
+    * 補足資料:
       * 疎行列とビット演算: [sparse.pdf](exercise/sparse.pdf)
     * [サンプルコード](sample): cmatrix.h, matfree.c, sparse.c, tridiagonal.c
