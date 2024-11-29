@@ -19,3 +19,9 @@
     * 補足資料:
       * 疎行列とビット演算: [sparse.pdf](exercise/sparse.pdf)
     * [サンプルコード](sample): cmatrix.h, matfree.c, sparse.c, tridiagonal.c
+  * 講義3 (2024-11-29)
+    * 講義資料: [lecture-2-3.pdf](lecture/lecture-2-3.pdf)
+  * 実習3 (2024-12-06)
+  * 講義4 (2024-12-27)
+  * 実習4 (2025-01-10)
+  
