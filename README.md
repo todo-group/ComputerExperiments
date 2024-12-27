@@ -24,5 +24,7 @@
   * 実習3 (2024-12-06)
     * 実習資料: [exercise-2-3.pdf](exercise/exercise-2-3.pdf)
   * 講義4 (2024-12-27)
+    * 講義資料: [lecture-2-4.pdf](lecture/lecture-2-4.pdf)
+    * [サンプルコード](sample): golden_section.c, harmonic.c, mersenne_twister.h
   * 実習4 (2025-01-10)
-  
+      * 実習資料:
