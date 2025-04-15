@@ -6,4 +6,8 @@
 * 講義・実習資料
   * 講義1 (2025-04-09)
     * 講義資料: [lecture-1-1.pdf](lecture/lecture-1-1.pdf)
-    * [サンプルコード](sample): bisection.c, func_1d.h, golden_section.c
+    * [サンプルコード/サンプルデータ](sample): bisection.c, func_1d.h, golden_section.c
+  * 実習1 (2025-04-16/23)
+    * 実習資料: [exercise-1-1.pdf](exercise/exercise-1-1.pdf)
+    * 補足説明スライド: [complex.pdf](exercise/complex.pdf), [dka.pdf](exercise/dka.pdf)
+    * [サンプルコード/サンプルデータ](sample): complex.c
