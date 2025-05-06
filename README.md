@@ -11,3 +11,5 @@
     * 実習資料: [exercise-1-1.pdf](exercise/exercise-1-1.pdf)
     * 補足説明スライド: [complex.pdf](exercise/complex.pdf), [dka.pdf](exercise/dka.pdf)
     * [サンプルコード/サンプルデータ](sample): complex.c
+  * 講義2 (2025-05-07)
+    * 講義資料: [lecture-1-2.pdf](lecture/lecture-1-2.pdf)
