@@ -20,3 +20,7 @@
   * 講義3 (2025-05-27)
     * 講義資料: [lecture-1-3.pdf](lecture/lecture-1-3.pdf)
     * [サンプルコード/サンプルデータ](sample): array.c, array2func.c, cmatrix.h, dgemm.h, dgetrf.h, dgetrs.h, gauss.c, input1.dat, input2.dat, lu_decomp.c, matrix_example.c, mersenne_twister.h, multiply_dgemm.c, multiply.c
+  * 実習3 (2025-06-04/11)
+    * 実習資料: [exercise-1-3.pdf](exercise/exercise-1-3.pdf)
+    * 補足説明スライド: [rng.pdf](exercise/rng.pdf)
+    * [サンプルコード/サンプルデータ](sample): cmatrix.h, dgemm.h, dgetrf.h, dgetrs.h, input1.dat, input2.dat, lu_decomp.c, matrix_example.c, mersenne_twister.h, multiply_dgemm.c, multiply.c, random.c
