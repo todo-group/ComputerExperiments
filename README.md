@@ -20,3 +20,5 @@
     * 補足資料:
       * 疎行列の扱い: [sparse.pdf](exercise/sparse.pdf)
     * [サンプルコード](sample): cmatrix.h, matfree.c, sparse.c, tridiagonal.c
+  * 講義3 (2025-11-07)
+    * 講義資料: [lecture-2-3.pdf](lecture/lecture-2-3.pdf)
