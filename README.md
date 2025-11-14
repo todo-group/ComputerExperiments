@@ -22,3 +22,5 @@
     * [サンプルコード](sample): cmatrix.h, matfree.c, sparse.c, tridiagonal.c
   * 講義3 (2025-11-07)
     * 講義資料: [lecture-2-3.pdf](lecture/lecture-2-3.pdf)
+  * 実習3 (2025-11-14)
+    * 実習資料: [exercise-2-3.pdf](exercise/exercise-2-3.pdf)
