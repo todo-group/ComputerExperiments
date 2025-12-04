@@ -27,3 +27,6 @@
   * 講義4 (2025-11-28)
     * 講義資料: [lecture-2-4.pdf](lecture/lecture-2-4.pdf)
     * [サンプルコード](sample): func_1d.h, golden_section.c, harmonic.c, mersenne_twister.h
+  * 実習4 (2025-12-05)
+    * 実習資料: [exercise-2-4.pdf](exercise/exercise-2-4.pdf)
+    * [サンプルコード](sample): func_2d.h, poisson.h, poisson_dense.c, poisson_lu.c, poisson_sparse.c, steepest_descent_2d.c
