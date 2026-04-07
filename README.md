@@ -4,6 +4,6 @@
 * [計算機実習のための環境整備](https://utphys-comp.github.io)
 * [UNIX入門](https://github.com/cmsi/malive-tutorial/blob/master/introduction/shell.md)
 * 講義・実習資料
-  * 講義1 (2026-04-07)
+  * 講義1 (2026-04-08)
     * 講義資料: [lecture-1-1.pdf](lecture/lecture-1-1.pdf)
     * [サンプルコード/サンプルデータ](sample): bisection.c, epsilon.c, func_1d.h, golden_section.c
