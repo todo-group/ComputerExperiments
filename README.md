@@ -13,3 +13,7 @@
     - [サンプルコード/サンプルデータ](sample): complex.c
   - 講義2 (2026-05-13)
     - 講義資料: [lecture-1-2.pdf](lecture/lecture-1-2.pdf)
+  - 実習2 (2026-05-20)
+    - 実習資料: [exercise-1-2.pdf](exercise/exercise-1-2.pdf)
+    - 補足説明スライド: [pointer.pdf](exercise/pointer.pdf)
+    - [サンプルコード/サンプルデータ](sample): array.c, array2func.c
