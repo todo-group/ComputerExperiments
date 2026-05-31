@@ -17,3 +17,6 @@
     - 実習資料: [exercise-1-2.pdf](exercise/exercise-1-2.pdf)
     - 補足説明スライド: [pointer.pdf](exercise/pointer.pdf)
     - [サンプルコード/サンプルデータ](sample): array.c, array2func.c
+  * 講義3 (2026-06-01)
+    * 講義資料: [lecture-1-3.pdf](lecture/lecture-1-3.pdf)
+    * [サンプルコード/サンプルデータ](sample): array.c, array2func.c, cmatrix.h, dgemm.h, dgetrf.h, dgetrs.h, gauss.c, input1.dat, input2.dat, lu_decomp.c, matrix_example.c, mersenne_twister.h, multiply_dgemm.c, multiply.c
