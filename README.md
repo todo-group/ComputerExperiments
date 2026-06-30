@@ -24,3 +24,6 @@
     - 実習資料: [exercise-1-3.pdf](exercise/exercise-1-3.pdf)
     - 補足説明スライド: [rng.pdf](exercise/rng.pdf)
     - [サンプルコード/サンプルデータ](sample): cmatrix.h, dgemm.h, dgetrf.h, dgetrs.h, input1.dat, input2.dat, lu_decomp.c, matrix_example.c, mersenne_twister.h, multiply_dgemm.c, multiply.c, random.c
+  - 講義4 (2026-07-01)
+    - 講義資料: [lecture-1-4.pdf](lecture/lecture-1-4.pdf)
+    - [サンプルコード/サンプルデータ](sample): cmatrix.h, diag.c, dgesvd.h, dsyev.h, full_svd.c, matrix1.dat, matrix2.dat, svd.c
