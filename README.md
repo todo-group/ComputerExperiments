@@ -27,3 +27,7 @@
   - 講義4 (2026-07-01)
     - 講義資料: [lecture-1-4.pdf](lecture/lecture-1-4.pdf)
     - [サンプルコード/サンプルデータ](sample): cmatrix.h, diag.c, dgesvd.h, dsyev.h, full_svd.c, matrix1.dat, matrix2.dat, svd.c
+  - 実習4 (2026-07-08/15)
+    - 実習資料: [exercise-1-4.pdf](exercise/exercise-1-4.pdf)
+    - 補足説明スライド: [box-muller.pdf](exercise/box-muller.pdf)
+    * [サンプルコード/サンプルデータ](sample): cmatrix.h, convert2matrix.py, dsyev.h, diag.c, matrix1.dat, measurement1.dat, measurement2.dat, read_matrix.py
