@@ -9,3 +9,8 @@
     - 補足資料
        - マルコフ連鎖における自己相関と統計誤差解析 [autocorrelation.pdf](lecture/autocorrelation.pdf)
     - [サンプルコード](sample): harmonic.c, mersenne_twister.h
+  - 実習1 (2026-10-16)
+    - 実習資料: [exercise-2-1.pdf](exercise/exercise-2-1.pdf)
+    - 補足資料
+       - ヒストグラムの作成 [histogram.pdf](exercise/histogram.pdf)
+    - [サンプルコード・データ](sample): cmatrix.h, harmonic.c, histogram.c, mersenne_twister.h, square_lattice.c, time-series.txt
