@@ -14,3 +14,5 @@
     - 補足資料
        - ヒストグラムの作成 [histogram.pdf](exercise/histogram.pdf)
     - [サンプルコード・データ](sample): cmatrix.h, harmonic.c, histogram.c, mersenne_twister.h, square_lattice.c, time-series.txt
+  - 講義2 (2026-10-23)
+    - 講義資料: [lecture-2-2.pdf](lecture/lecture-2-2.pdf)
