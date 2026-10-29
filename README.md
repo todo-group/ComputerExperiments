@@ -16,3 +16,5 @@
     - [サンプルコード・データ](sample): cmatrix.h, harmonic.c, histogram.c, mersenne_twister.h, square_lattice.c, time-series.txt
   - 講義2 (2026-10-23)
     - 講義資料: [lecture-2-2.pdf](lecture/lecture-2-2.pdf)
+  - 実習2 (2026-10-30)
+    - 実習資料: [exercise-2-2.pdf](exercise/exercise-2-2.pdf)
